@@ -19,7 +19,7 @@ Extrair texto de diferentes tipos de imagens e documentar o processo e resultado
 
 ### Exemplo 1: Manuscrito
 ![https://github.com/interss/projeto-reconhecimento-texto/blob/main/Inputs/Manuscrito.png]([inputs/imagem1.jpg](https://github.com/interss/projeto-reconhecimento-texto/blob/main/Inputs/Manuscrito.png))
-- **Resultado:** [Ver texto extraído](outputs/resultado1_Manuscrito.txt)
+- **Resultado:** [Ver texto extraído](README_PROMPT_Manuscrito.md)
 - **Precisão:** 90% a 95%
 
 ### Exemplo 2: PDF
