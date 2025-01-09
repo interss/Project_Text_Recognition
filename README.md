@@ -19,17 +19,17 @@ Extrair texto de diferentes tipos de imagens e documentar o processo e resultado
 
 ### Exemplo 1: Manuscrito
 ![Exemplo 1](Inputs/Manuscrito.png)
-- **Resultado:** [Ver texto extraído](README_PROMPT_Manuscrito.md)
+- **Resultado:** [Ver texto extraído](Outputs/resultado1_Manuscrito.txt)
 - **Precisão:** 90% a 95%
 
 ### Exemplo 2: PDF
 ![Exemplo 2](Inputs/PDF_Para_Analise_Projeto_I.A.png)
-- **Resultado:** [Ver texto extraído](README_PROMPT_PDF.md)
+- **Resultado:** [Ver texto extraído](Outputs/resultado2_PDF_Para_Analise_Projeto_I.A.txt)
 - **Precisão:** 90%
 
 ### Exemplo : Placa Sinalização
 ![Exemplo 3](Inputs/Placa_Sinalização.png)
-- **Resultado:** [Ver texto extraído](README_PROMPT_Placa_Sinalização.md)
+- **Resultado:** [Ver texto extraído](Outputs/resultado3_Placa_Sinalização.txt)
 - **Precisão:** Placa principal: 100% (clareza total) - Placas ao fundo: 85% 
 
 ## 💡 Insights e Aprendizados
