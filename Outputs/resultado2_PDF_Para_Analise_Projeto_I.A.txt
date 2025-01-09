@@ -1,0 +1,64 @@
+1. Texto Extraído com a Formatação Original:
+
+9.1.3. A Publicação do resultado final será na data prevista no cronograma, encerrando-se assim, as atribuições do Instituto Nacional de Concurso Público (Incp). Todo o processo de convocação do candidato classificado no Processo Seletivo é de competência do Município de .
+
+10.1. Os primeiros candidatos aos empregos de Agente Comunitário de Saúde, classificados, dentro da quantidade de 2 (duas) vezes o número de vagas, deverão comparecer ao local designado para participar da entrega de documentos, munidos do documento de identidade original com foto e fotocópia, devendo, ainda, apresentar, no ato, os documentos comprobatórios exigidos nos subitens deste edital quanto ao número de vagas.
+
+10.1.1. Os candidatos convocados deverão se apresentar na Secretaria Municipal de Saúde, situada à Rua , Centro, no horário de 08h às 17h, conforme cronograma de convocação constante no Anexo III deste Edital, para fins de entrega dos documentos.
+
+10.2. Documentos comprobatórios exigidos no ato da entrega dos documentos:
+
+10.2.1. Documento de Identidade com foto recente (Carteira de Trabalho, Carteira do Conselho de Classe (se for o caso), CNH, etc.);
+10.2.2. Comprovante de Escolaridade (Ensino Médio Completo) comprovando que o candidato possui o pré-requisito requerido para o emprego público.
+10.2.3. Comprovante de Residência (documento que esteja no nome do candidato); ou, em caso de imóvel que deverá apresentar a Relação dos logradouros do Município de  desde a publicação do edital, até a data de entrega de documentos previsto no artigo 5º da Lei Federal nº 11.350/06 e suas alterações.
+10.2.3.1. Como Comprovante de Residência poderão ser aceitos os seguintes documentos:
+
+10.2.3.1.1. Cópia de contrato de locação, acompanhado do recibo de pagamento, em nome do candidato e/ou do cônjuge junto à certidão de casamento;
+10.2.3.1.2. Cópia de contrato de compra e venda do imóvel em nome do candidato e/ou do cônjuge acompanhado de certidão de casamento;
+10.2.3.1.3. Comprovante de Residência no nome do pai e/ou mãe com comprovação do vínculo judicial ou certidão de nascimento.
+10.2.3.2. Caso o endereço do Documento que comprove a residência não seja correspondente ao do cadastro efetuado no concurso, deverá apresentar a Certidão de Casamento ou documento que comprove alteração de endereço por motivo de separação judicial ou divórcio; ou certidão atualizada.
+
+MUNICÍPIO DE  ESTADO DO 
+
+10.3. O Candidato convocado para o emprego de Agente Comunitário de Saúde deverá se apresentar no horário pré-definido para atendimento inicial para o preenchimento do formulário de pré-cadastro;
+
+10.3.1. O candidato convocado para o emprego de Agente Comunitário de Saúde deverá, obrigatoriamente, residir na área de abrangência da Unidade de Saúde em que atuará, conforme estabelecido no artigo 6º da Lei Federal nº 11.350/2006.
+
+10.3.2. O candidato, no ato da convocação, deverá comprovar, através de documentação, que atende aos requisitos do subitem 10.2 e seus subitens deste Edital.
+
+10.3.3. Não serão aceitos protocolos dos documentos solicitados, sendo obrigatória a apresentação dos documentos exigidos no edital no ato da convocação.
+
+10.3.4. O candidato que não comparecer no prazo estipulado no edital de convocação, perderá o direito de convocação, sendo convocado o próximo candidato classificado, obedecendo rigorosamente à ordem de classificação.
+
+10.3.5. Caso o candidato convocado não tenha sido eliminado do certame, poderá requerer nova análise documental, desde que comprove a legalidade nacional aplicada.
+
+10.3.7. No Credenciamento, o candidato convocado deverá apresentar atestado médico de saúde ocupacional, expedido por médico do trabalho, com avaliação clínica e mental, especificando que o candidato está apto para o exercício da função pleiteada.
+
+10.3.8. Caso o candidato não apresente o atestado médico de saúde ocupacional no prazo estipulado, será eliminado do processo seletivo.
+
+10.4. Os candidatos deverão apresentar os documentos originais e cópias autenticadas ou simples, que serão autenticadas pelo responsável pelo recebimento.
+
+10.5. Os candidatos que não atenderem aos requisitos exigidos na convocação, ou que não comparecerem no prazo estipulado para a entrega dos documentos, serão considerados eliminados do Processo Seletivo Público.
+
+
+2. Análise Detalhada
+
+Dados Numéricos Encontrados:
+Quantidade de candidatos convocados: 2 vezes o número de vagas.
+Horário de atendimento: 08h às 17h.
+Artigos legais mencionados: 5º e 6º da Lei Federal nº 11.350/06.
+Página do documento: 25.
+
+
+3. Nível de Confiança da Extração:
+
+90%
+A qualidade da imagem é boa, com texto bem legível. No entanto, pequenos ajustes podem ser feitos para melhorar a nitidez de algumas linhas mais densas.
+
+
+4. Sugestões para Melhorias na Digitalização:
+
+Ajuste de contraste: Aumentar o contraste poderia melhorar a clareza do texto, especialmente em seções mais densas.
+Resolução: Digitalizar a imagem em resolução mais alta (300 DPI ou superior).
+Correção de alinhamento: Alinhar a digitalização para evitar inclinações.
+Remoção de reflexos ou sombras: Garantir iluminação uniforme para evitar áreas escuras na imagem.

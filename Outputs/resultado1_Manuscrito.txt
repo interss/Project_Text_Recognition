@@ -1,0 +1,57 @@
+1. Transcrição do Texto Manuscrito
+
+O que me move? A minha relação com a dança é sempre a minha relação com a vida.
+Sou uma bailarina, gosto de estar em cena. Comecei a criar solo para poder estar em cena, para poder dançar e levar as minhas questões para a cena.
+
+
+2. Estilo de Escrita
+
+Tipo de escrita: Manuscrito cursivo, com traços predominantemente fluidos e contínuos.
+Características:
+Letras inclinadas levemente para a direita.
+Uso de espaçamento regular entre palavras.
+Algumas palavras apresentam traços fortes, com reforço em certas partes, como em "vida" e "questões".
+
+
+3. Avaliação da Qualidade da Caligrafia
+
+Legibilidade: Boa, com traços claros na maioria das palavras.
+Pontos fortes: A fluidez do texto facilita a leitura da maior parte das palavras.
+Pontos críticos: Algumas palavras apresentam leve sobreposição ou traços reforçados que podem dificultar a identificação, como "relações" e "questões".
+
+
+4. Destaque de Palavras ou Trechos Incertos
+
+"relações": A palavra contém alguns traços sobrepostos, mas pode ser interpretada com base no contexto.
+"vida": Traço reforçado pode dificultar a leitura em resoluções mais baixas.
+
+5. Sugestões para Palavras Ambíguas
+
+
+"relações": Manter como está, pois o contexto indica clareza.
+"questões": Embora clara, pode ser confundida em digitalizações de menor qualidade.
+
+
+6. Padrões de Escrita
+
+O autor utiliza curvas suaves para as letras, com maior pressão nas palavras que parecem emocionalmente carregadas ("vida", "questões").
+Há uma consistência no uso de letras cursivas que se conectam, com poucas interrupções.
+
+
+7. Avaliação da Consistência da Caligrafia
+
+Consistência: Alta. A caligrafia mantém o mesmo estilo e inclinação ao longo do texto.
+Variações: Algumas letras apresentam traços mais reforçados (como "q" e "s"), mas seguem o mesmo padrão geral.
+
+
+8. Nível de Confiança por Parágrafo
+
+Parágrafo 1: 95% de confiança. Todas as palavras são legíveis, com apenas alguns traços reforçados.
+Parágrafo 2: 90% de confiança. Pequenos detalhes em palavras como "questões" poderiam ser mais claros.
+
+
+9. Sugestões de Melhoria para Digitalização
+
+Aumentar o contraste: Isso melhoraria a distinção entre o texto e o fundo.
+Resolução mais alta: Uma imagem com maior DPI ajudaria na leitura de traços reforçados ou sobrepostos.
+Iluminação uniforme: Evitar sombras ou reflexos que possam interferir na clareza do texto.
