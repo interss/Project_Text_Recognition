@@ -23,7 +23,7 @@ Extrair texto de diferentes tipos de imagens e documentar o processo e resultado
 - **Precisão:** 90% a 95%
 
 ### Exemplo 2: PDF
-![Exemplo 2](inputs/imagem2.png)
+![Exemplo 2](Inputs/PDF_Para_Analise_Projeto_I.A.png)
 - **Resultado:** [Ver texto extraído](README_PROMPT_PDF.md)
 - **Precisão:** 90%
 
